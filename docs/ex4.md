@@ -2,11 +2,11 @@
 
 ## 一、代码地址
 
-代码地址：https://github.com/xkfx/android-hello-world/tree/master/app/src/main/java/com/example/myfirstapp/ex4
+代码地址：https://github.com/jackstears/Setting_4/blob/master/app/src/main/java/com/example/myfirstapp/ex4
 
 
 
-相应xml文件地址：https://github.com/xkfx/android-hello-world/blob/master/app/src/main/res/xml/preferences_ex4.xml
+相应xml文件地址：https://github.com/jackstears/Setting_4/blob/master/app/src/main/res/xml/preferences_ex4.xml
 
 
 
